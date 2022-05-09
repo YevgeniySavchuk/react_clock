@@ -1,0 +1,2 @@
+body{margin:30px}.clock{color:green}.button{position:absolute;top:150px;margin-right:20px;padding:20px;width:160px;font-size:16px;font-weight:700;border-radius:10px;transition:.3s}.button__show{border:2px solid green}.button__show:hover{color:#fff;background-color:green}.button__hide{left:390px;border:2px solid red}.button__hide:hover{color:#fff;background-color:red}.button__change{left:210px;border:2px solid #00f}.button__change:hover{color:#fff;background-color:#00f}
+/*# sourceMappingURL=main.803ea854.chunk.css.map */
